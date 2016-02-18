@@ -16,12 +16,22 @@ Each mugshot links to a viewer/quote method call, to display that author's quote
 
 
 **************
-Intended Usage
+Team Members
 **************
 
-Fork this project.
-Clone it locally.
-Enhance it per the tutorial
+Nancy Ra - A00933130  
+Li-Jen David Wang - A00863447
+
+************
+Conventions
+************
+
+Allman style
+tab indentation
+ucfirst (upper case first) for classes and files
+lowercase for name elsewhere
+words seperated by underscore
+underscore first for internal items
 
 *****
 Setup

@@ -1,0 +1,7 @@
+Newest changes at the top
+Format: MM/DD/YYYY HH:MM - Comment
+
+02/18/2016 14:35 - Implemented the rating widget
+02/18/2016 14:08 - Caboose library enabled, and replaced _template links and scripts
+02/18/2016 14:01 - Set enable_hooks to true
+02/18/2016 13:40 - Changelog created.

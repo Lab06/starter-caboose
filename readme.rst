@@ -27,12 +27,12 @@ Li-Jen David Wang - A00863447
 Conventions
 ************
 
-Allman style  
-tab indentation  
-ucfirst (upper case first) for classes and files  
-lowercase for name elsewhere  
-words seperated by underscore  
-underscore first for internal items
+Allman style,  
+tab indentation,  
+ucfirst (upper case first) for classes and files,  
+lowercase for name elsewhere,  
+words seperated by underscore,  
+underscore first for internal items,
 
 *****
 Setup
